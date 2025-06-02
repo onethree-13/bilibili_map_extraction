@@ -1,0 +1,12 @@
+bilibili-api-python
+requests
+pandas
+jieba
+matplotlib
+pyecharts
+wordcloud
+tqdm
+configparser
+asyncio
+streamlit
+httpx 
